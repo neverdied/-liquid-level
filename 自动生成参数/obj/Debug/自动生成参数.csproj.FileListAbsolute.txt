@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\bin\Debug\自动生成参数.exe.config
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\bin\Debug\自动生成参数.exe
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\bin\Debug\自动生成参数.pdb
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.Form1.resources
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.Properties.Resources.resources
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.exe
+C:\Users\Administrator\source\repos\自动生成参数\自动生成参数\obj\Debug\自动生成参数.pdb
